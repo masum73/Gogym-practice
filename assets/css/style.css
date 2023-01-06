@@ -75,7 +75,7 @@ nav li{
     display: flex;
     width: 80%;
     justify-content: space-between;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-bottom: 50px;
 }
 
@@ -173,7 +173,7 @@ i{
 .image-container{
     display: flex;
     padding: 5px;
-    margin-left: 100px;
+    margin-left: 15px;
 }
 
 .gallery-section{
@@ -229,7 +229,7 @@ i{
     display: flex;
     width: 80%;
     justify-content: space-between;
-    margin-left: 150px;
+    margin-left: 60px;
     margin-bottom: 50px;
 }
 
@@ -250,7 +250,7 @@ i{
 
 table{
     text-align: center;
-    margin-left: 400px;
+    margin-left: 280px;
     font-size: 20px;
     padding-bottom: 50px;
 }
@@ -264,7 +264,7 @@ td{
 }
 /* contact style */
 form{
-    margin-left: 600px;
+    margin-left: 500px;
     font-size: 20px;
 }
 label{
@@ -291,7 +291,7 @@ input{
 }
 
 .map{
-    margin-left: 600px;
+    margin-left: 500px;
     padding-bottom: 30px;
 }
 /* footer style */
