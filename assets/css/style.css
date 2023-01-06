@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;;
+}
+/* header banner style */
+
+.header{
+    background-image:url('../img/intro/img5.jpg');
+    height: 100vh;
+    margin-bottom: 200px;
+}
+.banner{
+    display: flex;
+    margin: 300px 200px;
+}
+.banner h1{
+    margin-right: 20px;
+    font-size: 55px;
+    color: orangered;
+}
+.btn-price{
+    font-weight: 400;
+    font-size: 20px;
+    color:whitesmoke;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(54, 55, 55);
+    border: 1px solid orangered;
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+/* nav bar style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(54, 55, 55);
+    color: whitesmoke;
+    padding: 10px;
+    
+}
+.nav-title{
+    font-size: 35px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    padding-right: 10px;
+    font-size: 20px;
+}
