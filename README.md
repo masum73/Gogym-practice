@@ -1,2 +1,2 @@
 # Gogym
- Self Practice HTML CSS mini Bootstrap 
+ Self Practice HTML CSS Favicons Maps Fonts
