@@ -262,3 +262,55 @@ td{
     text-align: center;
     border: 1px solid black;
 }
+/* contact style */
+form{
+    margin-left: 600px;
+    font-size: 20px;
+}
+label{
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+input{
+    font-size: 20px;
+    width: 400px;
+    margin: 10px;
+}
+.btn-message{
+    font-weight: 400;
+    font-size: 20px;
+    color:whitesmoke;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(54, 55, 55);
+    border: 1px solid orangered;
+    border-radius: 30px;
+    margin: 20px 150px;
+    padding: 5px 20px;
+}
+
+.map{
+    margin-left: 600px;
+    padding-bottom: 30px;
+}
+/* footer style */
+
+footer{
+    background-color: rgb(97, 97, 172);
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-title{
+    font-size: 20px;
+    color: black;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+a{
+    padding-right: 10px;
+    text-decoration: none;
+    color: black;
+}
