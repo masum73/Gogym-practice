@@ -170,3 +170,20 @@ i{
     border-radius: 10px;
     text-align: center;
 }
+/* gallery styles */
+.image-container{
+    display: flex;
+    padding: 5px;
+    margin-left: 100px;
+}
+
+.gallery-section{
+    background-color:whitesmoke;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.gallery-img{
+    width: 350px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
