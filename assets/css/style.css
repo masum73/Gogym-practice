@@ -28,7 +28,6 @@
     vertical-align: middle;
     background-color: rgb(54, 55, 55);
     border: 1px solid orangered;
-    border-style: none;
     border-radius: 10px;
     padding: 10px 20px;
 }
@@ -186,4 +185,63 @@ i{
     width: 350px;
     padding: 10px;
     margin-bottom: 20px;
+}
+/* offer style */
+
+.offer-section{
+    display: flex;
+    justify-content: space-around;
+    background-color: olivedrab;
+    margin-bottom: 50px;
+}
+
+.offer-title{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(199, 52, 52);
+    padding: 20px;
+}
+
+.offer-description{
+    text-align: center;
+    font-weight: 800;
+    font-size: 25px;
+    margin-bottom: 40px;
+    color: rgb(199, 52, 52);
+    margin-top: 30px;
+}
+.btn-subscribe{
+    font-weight: 400;
+    font-size: 20px;
+    color:whitesmoke;
+    text-align: center;
+    vertical-align: middle;
+    background-color: rgb(54, 55, 55);
+    border: 1px solid orangered;
+    border-radius: 30px;
+    margin: 20px;
+    padding: 5px 20px;
+}
+
+/* team style */
+
+.team-container{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.team{
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(203, 190, 190, 0.5);
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.team-img{
+    width: 300px;
 }
