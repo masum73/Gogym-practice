@@ -9,7 +9,7 @@
 .header{
     background-image:url('../img/intro/img5.jpg');
     height: 100vh;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
 }
 .banner{
     display: flex;
@@ -52,4 +52,62 @@ nav li{
     list-style: none;
     padding-right: 10px;
     font-size: 20px;
+}
+
+/* services style */
+
+.section-title{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(54, 55, 55);
+}
+
+.section-description{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+    color: rgb(54, 55, 55);
+}
+
+/* service styles */
+
+.service-container{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+
+.service-sub-title{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.service-title{
+    margin-top: 30px;
+    font-size: 30px;
+    color: rgb(199, 52, 52);
+}
+
+.service-description{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.service{
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(203, 190, 190, 0.5);
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.service-section{
+    background-color:whitesmoke;
+}
+
+.service-img{
+    width: 400px;
 }
