@@ -60,13 +60,14 @@ nav li{
     text-align: center;
     font-size: 45px;
     color: rgb(54, 55, 55);
+    padding: 20px;
 }
 
 .section-description{
     text-align: center;
     font-size: 25px;
     margin-bottom: 40px;
-    color: rgb(54, 55, 55);
+    color: black;
 }
 
 /* service styles */
@@ -147,4 +148,25 @@ nav li{
 .professional{
     margin-top: 100px;
     margin-left: 200px;
+}
+
+/* amenities style */
+
+i{
+    font-size: 50px;
+}
+
+.amenities-section{
+    background-color: olivedrab;
+    margin-bottom: 50px;
+}
+
+.amenities{
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgba(203, 190, 190, 0.5);
+    margin-bottom: 30px;
+    border-radius: 10px;
+    text-align: center;
 }
