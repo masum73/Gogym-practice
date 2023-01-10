@@ -58,6 +58,11 @@ nav li{
     font-size: 20px;
 }
 
+nav li:hover{
+    color: orangered;
+    cursor: pointer;
+}
+
 /* services style */
 
 .section-title{
